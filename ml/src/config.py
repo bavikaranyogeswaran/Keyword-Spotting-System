@@ -17,3 +17,4 @@ EPOCHS = 10
 LEARNING_RATE = 0.001
 
 MODEL_PATH = "ml/models/keyword_cnn.pth"
+DATA_ROOT = "ml/data"
