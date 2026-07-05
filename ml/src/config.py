@@ -8,3 +8,5 @@ TARGET_WORDS = [
     "up",
     "down",
 ]
+
+SAMPLE_RATE = 16000
