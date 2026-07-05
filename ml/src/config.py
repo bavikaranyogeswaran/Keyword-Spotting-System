@@ -15,3 +15,5 @@ N_MELS = 64
 BATCH_SIZE = 64
 EPOCHS = 10
 LEARNING_RATE = 0.001
+
+MODEL_PATH = "ml/models/keyword_cnn.pth"
